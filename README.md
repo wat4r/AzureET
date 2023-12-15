@@ -60,4 +60,4 @@ AzureET Config SetClientCredential -tenant [Tenant] -clientId [ClientId] -secret
 ## Contact
 If you have any issues or feature requests, please contact us. PR is welcomed.
  - [Issues](https://github.com/wat4r/AzureET/issues)
- - [New issue](https://github.com/wat4r/dpapitk/issues/new)
+ - [New issue](https://github.com/wat4r/AzureET/issues/new)
