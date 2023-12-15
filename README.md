@@ -35,7 +35,7 @@ AzureET --help
 ```
 
 ## Installation
-Go to [releases](https://github.com/wat4r/AzureET/releases) to download the latest version of the AzureET binary file corresponding to the operating system, and then run it.
+Go to [releases](https://github.com/wat4r/AzureET/releases) to download the latest version of the AzureET binary file corresponding to the operating system, and then run it. Automatically generate configuration file `config.data` when running for the first time.
 
 
 ## Config
