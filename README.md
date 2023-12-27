@@ -57,6 +57,17 @@ Set app client credential
 AzureET Config SetClientCredential -tenant [Tenant] -clientId [ClientId] -secret [ClientSecret]
 ```
 
+## Examples
+Check azure domain exist
+```sh
+AzureET Public CheckDomainExist -domain domain.com
+```
+
+Check if azure ad user exist
+```sh
+AzureET Public CheckUserExist -UserPrincipalName username@domain.com
+```
+
 ## Contact
 If you have any issues or feature requests, please contact us. PR is welcomed.
  - [Issues](https://github.com/wat4r/AzureET/issues)
