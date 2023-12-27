@@ -18,6 +18,7 @@
   <a href="#usage">Usage</a> •
   <a href="#installation">Installation</a> •
   <a href="#config">Config</a> •
+  <a href="#examples">Examples</a> •
   <a href="https://wat4r.github.io/AzureET/">Documentation</a>
 </p>
 
